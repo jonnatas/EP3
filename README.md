@@ -1,3 +1,4 @@
+![](https://travis-ci.org/jonnatas/EP3.svg?branch=master)
 # Instruções de instalação.
 Para a instalação do Angular é necessário instalar alguns componentes, sendo eles: Node, Typescript e Angular CLI. 
 ## Node
